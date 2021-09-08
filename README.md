@@ -22,7 +22,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
   - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
 #### Software Development
-- [ ] [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]
+- [x] [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]
 - [ ] [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** [32:55]
 - [ ] [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor** [54:20]
 - [ ] [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** [39:32]
