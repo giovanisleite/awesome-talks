@@ -177,7 +177,7 @@ Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Di
 - [ ] [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** [1:16:26]
 - [ ] [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** [15:04]
 - [ ] [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** [39:48]
-- [ ] [Drive - The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=u6XAPnuFjJc) by **RSA Animate** [10:47]
+- [x] [Drive - The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=u6XAPnuFjJc) by **RSA Animate** [10:47]
 - [ ] [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** [21:22]
 
 #### Cryptocurrencies
